@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Saksham Chikate — a first-year student with a growing interest in full-stack development.  <br>I work with C, C++, Python, Java, HTML/CSS, JavaScript, and a bit of SQL + Git/GitHub.  <br>Always building small projects to sharpen my skills and learn real-world development.
+Hi, I’m Saksham Chikate — Student with a growing interest in full-stack development.  <br>I work with C, C++, Python, Java, HTML/CSS, JavaScript, and a bit of SQL + Git/GitHub.  <br>Always building small projects to sharpen my skills and learn real-world development.
 
 
 ## 🌐 Socials:
